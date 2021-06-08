@@ -1,2 +1,2 @@
 # nmea2navsat
-receive nmea and publish to nav
+receive nmea from serial and publish to ros(NavSatFix)
